@@ -1,0 +1,15 @@
+item {
+	id: 1
+	name: '1rupee'
+}
+
+item {
+	id: 2
+	name: '2rupee'
+}
+
+item {
+	id: 3
+	name: '5rupee'
+}
+
